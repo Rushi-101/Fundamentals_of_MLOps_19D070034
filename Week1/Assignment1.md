@@ -23,4 +23,4 @@ The simplicity and straightforward approach of Linear regression models turns th
 
 
 ## **PART 2**
-<img src="images/AWS%20console.png">
+<img src="https://github.com/Rushi-101/Fundamentals_of_MLOps_19D070034/blob/main/images/AWS_console.png">
